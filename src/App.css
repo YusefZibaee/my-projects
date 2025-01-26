@@ -1,0 +1,15 @@
+
+* {
+    margin: 0 ;
+}
+
+.container{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 10px;
+}
+
+.link{
+    text-decoration: none;
+    color: inherit;
+}
