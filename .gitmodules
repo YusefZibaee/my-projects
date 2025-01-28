@@ -1,6 +1,0 @@
-[submodule "my-projects"]
-	path = my-projects
-	url = https://github.com/YusefZibaee/my-projects.git
-[submodule "1"]
-	path = 1
-	url = https://github.com/YusefZibaee/my-projects.git
